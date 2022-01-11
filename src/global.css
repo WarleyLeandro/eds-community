@@ -1,0 +1,28 @@
+:root {
+    --blue : #22345e;
+    --gray : #3a3a3a;
+    --white: #ededed;
+}
+
+h2 {
+    color: var(--gray);
+}
+
+.container-blue {
+    background-color: #22345e;
+    color: #ededed;
+    
+}
+
+.img-ball {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.img-banner {
+    height: 300px;
+    @media (max-width: 720px) {
+        
+    }
+}
