@@ -1,15 +1,4 @@
 
-CREATE TABLE Mentoria
-(
-  idMentoria int(11) NOT NULL AUTO_INCREMENT,
-  userName varchar(45) NOT NULL,
-  fone int(15) NOT NULL,
-  tempoMentoria varchar(10) NOT NULL,
-  temaMentoria varchar(100) NOT NULL,
-  PRIMARY KEY (idMentoria)
-) 
-ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=latin1;
-
 insert into mentoria (userName,  fone,  tempoMentoria,  temaMentoria) values ("LariSL07", 31996866196, 20 , "PHP");
 insert into mentoria (userName,  fone,  tempoMentoria,  temaMentoria) values ("GuiAS03", 74995655345, 45,"JavaScript" );
 insert into mentoria (userName,  fone,  tempoMentoria,  temaMentoria) values ("LuisFN04",55994355391 , 30,"HTML");
