@@ -9,5 +9,6 @@ CREATE TABLE evento
   descricao varchar(245) NOT NULL,
   PRIMARY KEY (idEvento)
 ) 
+
 ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=latin1;
 
