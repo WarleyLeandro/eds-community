@@ -1,6 +1,10 @@
 # eds-community
 Desenvolvimento de uma aplicação web idealizando meu projeto pessoal
 
+<div> 
+  <img src="https://user-images.githubusercontent.com/55992267/150872810-f6cffada-112f-4ff6-91ed-f791977f25bc.png" />
+</div>
+
 ## Tecnologias
 - PHP (PDO) + MySQL
 - Bootstrap
